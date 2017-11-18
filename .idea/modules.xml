@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\Andriod\AndroidStudioProjects\EmployeeData\Acadgild.iml" filepath="E:\Andriod\AndroidStudioProjects\EmployeeData\Acadgild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeData.iml" filepath="$PROJECT_DIR$/EmployeeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Andriod\AndroidStudioProjects\EmployeeData\app\app.iml" filepath="E:\Andriod\AndroidStudioProjects\EmployeeData\app\app.iml" />
+    </modules>
+  </component>
+</project>
